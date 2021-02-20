@@ -1,0 +1,13 @@
+# Ignore tmp-päätteiset tiedostot
+
+*.tmp
+
+
+# Ignore build-hakemisto
+
+build/
+
+
+# Ignore .gradle-hakemisto
+
+.gradle/
