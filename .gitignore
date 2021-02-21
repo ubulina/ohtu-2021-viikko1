@@ -1,13 +1,5 @@
-# Ignore tmp-päätteiset tiedostot
+# Ignore Gradle project-specific cache directory
+.gradle
 
-*.tmp
-
-
-# Ignore build-hakemisto
-
-build/
-
-
-# Ignore .gradle-hakemisto
-
-.gradle/
+# Ignore Gradle build output directory
+build
